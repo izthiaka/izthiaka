@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/izthiaka" target="blank"><img src="https://img.shields.io/twitter/follow/izthiaka?logo=twitter&style=for-the-badge" alt="izthiaka" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [LOPITAAN](https://github.com/izthiaka/LOPITAAN)
+- 🔭 Je travaille actuellement sur [Merzoug Blog](https://github.com/izthiaka/LOPITAAN)
 
 - 🌱 Je suis actuellement en train d'apprendre **React Native et Flutter**
 
