@@ -29,11 +29,7 @@
 
 <h3 align="left">Suivez moi sur:</h3>
 <p align="left">
-<a href="https://codepen.io/izthiaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="izthiaka" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ismaila-thiaka-badji-898842170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismaila-thiaka-badji-898842170" height="30" width="40" /></a>
-<a href="https://fb.com/ismailathiaka.badji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ismailathiaka.badji" height="30" width="40" /></a>
-<a href="https://instagram.com/izthiaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izthiaka" height="30" width="40" /></a>
-<a href="https://hashnode.com/@izthiaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@izthiaka" height="30" width="40" /></a>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ismailathiaka.badji) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/izthiaka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismaila-thiaka-badji-898842170) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/teranga_shopping) 
 </p>
 
 <h3 align="left">Langages et outils:</h3>
