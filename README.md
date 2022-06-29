@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://izthiaka.io)
-<h1 align="center">Hi 👋, c'est Thiaka BADJI</h1>
+<h1 align="center">Salamalekum 👋, c'est Thiaka BADJI</h1>
 <h3 align="center">Un développeur full stack passionné, d'origine sénégalaise 
 <kbd><img title="Senegal" alt="Senegal" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/sn.svg" width="20"></kbd></h3>
 
@@ -51,4 +51,3 @@
 <a href="https://buymeacoffee.com/izthiaka" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buymeacoffee"/> </a>
 <a href="https://paypal.me/paypal.me/izthiaka" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal"/> </a>
 <a href="https://ko-fi.com/ko-fi.com/izthiaka" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="buymeacoffee"/> </a>
-  <!-- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/                    buymeacoffee.com/izthiaka                ) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/izthiaka) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/izthiaka)  -->
