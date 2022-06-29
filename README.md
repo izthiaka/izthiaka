@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, c'est Thiaka BADJI</h1>
 <h3 align="center">Un développeur full stack passionné, d'origine sénégalaise 🇸🇳</h3>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/izthiaka/izthiaka/blob/main/devcard.svg" width="500" alt="Thiaka BADJI's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/izthiaka/izthiaka/blob/main/devcard.svg" width="400" alt="Thiaka BADJI's Dev Card"/></a>
 
 <img align="right" alt="Coding" Width="400" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif">
 
