@@ -1,6 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://izthiaka.io)
 <h1 align="center">Hi 👋, c'est Thiaka BADJI</h1>
-<h3 align="center">Un développeur full stack passionné, d'origine sénégalaise 🇸🇳</h3>
+<h3 align="center">Un développeur full stack passionné, d'origine sénégalaise 
+<kbd><img title="Senegal" alt="Senegal" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/sn.svg" width="20"></kbd></h3>
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/izthiaka/izthiaka/blob/main/devcard.svg" width="400" alt="Thiaka BADJI's Dev Card"/></a>
 
