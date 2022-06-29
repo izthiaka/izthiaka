@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" Width="400" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=izthiaka&label=Profile%20views&color=0e75b6&style=flat" alt="izthiaka" /> </p>
+<p align="left"> <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/izthiaka/izthiaka/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a> </p>
 
 <p align="left"> <a href="https://twitter.com/izthiaka" target="blank"><img src="https://img.shields.io/twitter/follow/izthiaka?logo=twitter&style=for-the-badge" alt="izthiaka" /></a> </p>
 
