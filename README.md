@@ -48,5 +48,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izthiaka&&theme=tokyonight" alt="izthiaka" /></p>
 
 <h3 align="left">💰 Donation:</h3>
-<a href="https://buymeacoffee.com/izthiaka" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buymeacoffee" width="40" height="40"/> </a>
+<a href="https://buymeacoffee.com/izthiaka" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buymeacoffee"/> </a>
+<a href="https://paypal.me/paypal.me/izthiaka" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal"/> </a>
+<a href="https://ko-fi.com/ko-fi.com/izthiaka" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="buymeacoffee"/> </a>
   <!-- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/                    buymeacoffee.com/izthiaka                ) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/izthiaka) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/izthiaka)  -->
