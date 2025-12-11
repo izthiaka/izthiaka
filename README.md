@@ -1,23 +1,22 @@
-<h1 align="center">Thiaka BADJI</h1>
-<h3 align="center">Ingénieur Logiciel Full Stack</h3>
-
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/izthiaka/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/izthiaka/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://wa.me/221777739260"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=izthiaka&label=Visiteurs&color=0e75b6&style=flat" alt="izthiaka" />
-</p>
-
----
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+<h1 align="center">Ismaila Thiaka BADJI | Ingénieur Logiciel Full Stack</h1>
 
 ### A propos
 
 Développeur passionné basé au Sénégal, je conçois des applications web et mobiles robustes depuis 2015. Mon expertise couvre l'ensemble du cycle de développement, du backend aux interfaces utilisateur.
 
 **Contact:** izthiaka@gmail.com
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=izthiaka&label=Visiteurs&color=0e75b6&style=flat" alt="izthiaka" />
+</p>
 
 ---
 
@@ -65,26 +64,6 @@ Développeur passionné basé au Sénégal, je conçois des applications web et 
 
 ### Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=izthiaka&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izthiaka&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+<br clear="both">
 
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/izthiaka/izthiaka/output/snake.svg" alt="Snake animation" />
-</p>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=izthiaka&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=izthiaka&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/izthiaka/izthiaka/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/izthiaka/izthiaka/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/izthiaka/izthiaka/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
