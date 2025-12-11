@@ -35,6 +35,7 @@ Développeur passionné basé au Sénégal, je conçois des applications web et 
 ### Stack technique
 
 **Backend**
+
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
@@ -43,6 +44,7 @@ Développeur passionné basé au Sénégal, je conçois des applications web et 
 </p>
 
 **Frontend**
+
 <p>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt.js"/>
@@ -51,6 +53,7 @@ Développeur passionné basé au Sénégal, je conçois des applications web et 
 </p>
 
 **Mobile & Outils**
+
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
@@ -67,6 +70,21 @@ Développeur passionné basé au Sénégal, je conçois des applications web et 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izthiaka&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izthiaka&theme=default&hide_border=true" alt="GitHub Streak"/>
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/izthiaka/izthiaka/output/snake.svg" alt="Snake animation" />
 </p>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=izthiaka&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=izthiaka&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/izthiaka/izthiaka/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/izthiaka/izthiaka/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/izthiaka/izthiaka/output/pacman-contribution-graph.svg">
+</picture>
