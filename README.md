@@ -8,7 +8,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-<h1 align="center">Ismaila Thiaka BADJI <sub>| Ingénieur Logiciel Full Stack</sub></h1>
+<h1 align="center">Ismaila Thiaka BADJI |<sub> Ingénieur Logiciel Full Stack</sub></h1>
 
 ### A propos
 
