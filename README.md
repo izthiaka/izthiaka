@@ -31,6 +31,7 @@ Développeur passionné, je conçois des applications web et mobiles robustes de
 
 ### Stack technique
 
+<div align="center">
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -72,15 +73,16 @@ Développeur passionné, je conçois des applications web et mobiles robustes de
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
 ### Statistiques GitHub
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=izthiaka&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izthiaka&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izthiaka&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+</div>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=izthiaka&theme=default&hide_border=true" alt="GitHub Streak" />
